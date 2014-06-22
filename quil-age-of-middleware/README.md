@@ -1,14 +1,7 @@
 # quil-age-of-middleware
 
-A Clojure library designed to ... well, that part is up to you.
+Code for [Quil: Age of Middleware](http://nbeloglazov.com/2014/06/22/quil-age-of-middleware.html) blog post.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Run src/quil_age_of_middleware.clj file and see what happens...
