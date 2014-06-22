@@ -65,7 +65,7 @@
 ;;; Rotating middleware
 ;;;
 
-(defn rotated-draw [period orig-draw]
+(defn rotating-draw [period orig-draw]
   (let [angle (q/map-range (mod (q/frame-count) period)
                            0 period
                            0 q/TWO-PI)
@@ -80,7 +80,7 @@
   (let [draw (:draw options (fn []))
         period (:rotate-period options 200)]
     (assoc options
-      :draw (partial rotated-draw period draw))))
+      :draw (partial rotating-draw period draw))))
 
 (q/defsketch my-sketch
   :setup setup
