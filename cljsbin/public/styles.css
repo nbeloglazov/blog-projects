@@ -1,0 +1,16 @@
+#input-area {
+    float: left;
+    height: 500px;
+    width: 45%;
+}
+
+#source {
+    width: 100%;
+    height: 500px;
+}
+
+#result {
+    float: right;
+    width: 45%;
+    height: 500px;
+}
