@@ -1,6 +1,6 @@
 # quil-intro
 
-Code for [Quil Intro](http://nbeloglazov.com/2014/05/29/quil-intro.html) blog post.
+Code for the [Quil Intro](http://nbeloglazov.com/2014/05/29/quil-intro.html) blog post.
 
 ## Usage
 

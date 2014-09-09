@@ -1,6 +1,6 @@
 # cljsbin
 
-Code for [Poor Man's Cljsfiddle](http://nbeloglazov.com/2014/08/16/poor-mans-cljsfiddle.html) blog post.
+Code for the [Poor Man's Cljsfiddle](http://nbeloglazov.com/2014/08/16/poor-mans-cljsfiddle.html) blog post.
 
 ## Usage
 
