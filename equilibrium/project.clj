@@ -2,7 +2,7 @@
   :description "Equilibrium"
   :url "http://nbeloglazov.com/2014/09/09/equilibrium.html"
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [quil "2.2.2"]
+                 [quil "2.2.5"]
                  [org.clojure/clojurescript "0.0-2268"]]
 
   :plugins [[lein-cljsbuild "1.0.3"]]
